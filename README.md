@@ -1,2 +1,2 @@
-# Flipkart_Data_Analysis_using_RDS_S3_Glue_Athena_Tableau
+# Flipkart Data Analysis
 AWS Project on Big Data -> Flipkart Sales Data Analysis
